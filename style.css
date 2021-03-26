@@ -13,11 +13,11 @@
   text-align: right;
 }
 
-.martix .martix-img {
+.martix .martix__img {
   width: 100%;
 }
 
-.martix .source-link {
+.martix .martix__link {
   font-family: fantasy, cursive;
 }
 
@@ -41,7 +41,7 @@
   flex-grow: 1;
 }
 
-.task-row-wrapper {
+.add-group__form {
   display: flex;
 }
 

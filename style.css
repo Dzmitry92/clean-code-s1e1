@@ -50,11 +50,13 @@
   padding: 0;
 }
 
-.list__item, .group-header {
+.list__item,
+.group-header {
   list-style: none;
 }
 
-.input, .btn{
+.input,
+.btn{
   outline: none;
 }
 
@@ -74,7 +76,8 @@
 
 /* Heading */
 
-.group-header, .label-new-task {
+.group-header,
+.label-new-task {
   color: #333;
   font-weight: 700;
   font-size: 15px;

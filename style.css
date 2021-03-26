@@ -106,7 +106,7 @@
 
 /* New Task */
 
-.label-new-task {
+.add-group > .group-header {
   display: block;
   margin: 0 0 20px;
 }
@@ -115,7 +115,7 @@
   width: 318px;
 }
 
-.add-block .btn:hover {
+.add-group .btn:hover {
   color: #0fc57c;
 }
 
